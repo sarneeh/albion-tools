@@ -9,5 +9,8 @@
   "author": "Jacob Sarnowski <hello@jsarnowski.com>",
   "scripts": {
     "start": "node index.js"
+  },
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0"
   }
 }
